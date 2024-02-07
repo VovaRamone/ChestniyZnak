@@ -1,0 +1,29 @@
+{
+  "description": {
+    "participantInn": "1234567890"
+  },
+  "doc_id": "unique-document-id",
+  "doc_status": "new",
+  "doc_type": "LP_INTRODUCE_GOODS",
+  "importRequest": true,
+  "owner_inn": "1234567890",
+  "participant_inn": "1234567890",
+  "producer_inn": "1234567890",
+  "production_date": "2020-01-23",
+  "production_type": "some-type",
+  "products": [
+    {
+      "certificate_document": "certificate-id",
+      "certificate_document_date": "2020-01-23",
+      "certificate_document_number": "certificate-number",
+      "owner_inn": "1234567890",
+      "producer_inn": "1234567890",
+      "production_date": "2020-01-23",
+      "tnved_code": "tnved-code",
+      "uit_code": "uit-code",
+      "uitu_code": "uitu-code"
+    }
+  ],
+  "reg_date": "2020-01-23",
+  "reg_number": "registration-number"
+}
